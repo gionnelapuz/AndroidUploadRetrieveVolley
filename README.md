@@ -12,3 +12,7 @@ Android project that Uploads and Retrieves Text and Images from a Database using
 ### Retrieve Text & Image Activity 
 ![3](https://user-images.githubusercontent.com/33053218/32060452-5b22b5fa-baa1-11e7-9ea2-212b1951e584.png)
 ![4](https://user-images.githubusercontent.com/33053218/32060453-5b51d2d6-baa1-11e7-8d60-9a848f1ad548.png)
+
+## Developed By
+Gionne Harley G. Lapuz - gionne.lapuz@gmail.com | www.linkedin.com/in/gionnelapuz
+  
